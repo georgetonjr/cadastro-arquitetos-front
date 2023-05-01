@@ -1,1 +1,1 @@
-# cadastro-arquitetos-front
+para rodar o projeto rodar o comando ```yarn``` na raiz do projeto depois yarn dev para iniciar a aplicacão
